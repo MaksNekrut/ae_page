@@ -1,7 +1,6 @@
 const year = document.querySelectorAll('.year');
 const list = document.querySelectorAll('li');
 
-
 function showInfo(e) {
     list.forEach(item => {
         item.style.display = "none";

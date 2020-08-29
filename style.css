@@ -39,7 +39,7 @@ body {
 }
 #image {
     display: block;
-    width: 1000px;
+    max-width: 1000px;
     padding-top: 1rem;
     margin: 0 auto;
 }
